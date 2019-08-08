@@ -20,6 +20,6 @@ eureka:
           defaultZone: http://127.0.0.1:8761/eureka/
 
 env:
-  test123456
+  test12
 label:
   master
